@@ -1,1 +1,3 @@
-changes to commit
+hungry=input("hungry");
+if (hungry==yes)
+{print("eat samosa");}
